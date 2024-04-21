@@ -5,7 +5,10 @@ Below is a text for one of the three tasks that were part of application for uni
 In this problem, you are given an image that contains a simple maze. Images can vary in size, but there are some general rules when it comes to how does the maze look like. Each pixel in the maze is either empty, hence free to step on or occupied by wall. Pixels that are not empty cannot be visited. Maze can also contain multiple gaps around the border that we call entrances. You can enter the maze in any one of the and exit in any other else. The goal is to find the shortest path one can traverse the maze on. Some definitions are given below.
 There is one example of a maze anda a valid path. Nothe that your path doesn't have to be centered like this one, you just can't stand on  walls.
 
-![maze_example](https://github.com/Dovlane/PSIML10-Maze/assets/57462728/972a4012-5948-41e2-92e2-0f2bbdafebef)
+
+<p align = "center">
+  <img src="https://github.com/Dovlane/PSIML10-Maze/assets/57462728/972a4012-5948-41e2-92e2-0f2bbdafebef" alt="drawing" width="400"/>
+</p>
 
 However, this maze is not just an ordinary maze. It can also contain a certain number of teleports. Those are special pixels that make you able to enter it and exit in any other teleport. You should also find the shortest path using teleports.
 
