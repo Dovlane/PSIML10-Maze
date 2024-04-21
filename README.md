@@ -12,13 +12,13 @@ There is one example of a maze anda a valid path. Nothe that your path doesn't h
 
 However, this maze is not just an ordinary maze. It can also contain a certain number of teleports. Those are special pixels that make you able to enter it and exit in any other teleport. You should also find the shortest path using teleports.
 
-## Task 1: Count entrances
+### Task 1: Count entrances
 Count the number of entrances in the given maze.
 
-## Task 2: Shortest path
+### Task 2: Shortest path
 Find the length of the shortest path in the maze.
 
-## Task 3: Shortest path with a twist
+### Task 3: Shortest path with a twist
 Find the length of the shortest path in the maze if you are allowed to use teleports.
 
 ## Input
